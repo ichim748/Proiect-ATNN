@@ -5,7 +5,7 @@ This repository contains the implementation of a reinforcement learning agent de
 - Implementation of the TD3 algorithm for continuous action spaces.
 - Usage of a pre-trained ResNet18 encoder for efficient feature extraction.
 - Epsilon-greedy exploration combined with Ornstein-Uhlenbeck noise for balanced exploration and exploitation.
-- The addition of the online-target concept, normally found in Double Q learning 
+- Reshaping of the reward function
 ## More details
 A more detailed description of the solution and the decision making behind it can be found in the Report.pdf file
 ## Evaluation metrics
