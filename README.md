@@ -12,3 +12,5 @@ A more detailed description of the solution and the decision making behind it ca
 The cumulative reward obtained during an episode of length 1000
 ## My results
 Even though the current result are poor (around -25, SOTA around 900) it shows promissing behaviour (some ability to follow the road and the curves with some small amount of noise added) and it would benefit from more training (the training for this result was done on 500 episodes of length 500).
+## Example video link
+https://youtu.be/P5MwveUeGu8
